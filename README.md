@@ -76,6 +76,7 @@ def eventListen():
                 forward = 'LEFT'
 ```
 > 点击右上角 × 结束程序
+
 > 按上下左右键，修改forword
 #### 4. 绘制函数
 ```
