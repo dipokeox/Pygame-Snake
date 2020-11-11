@@ -5,7 +5,7 @@ screensize = [step * 20, step * 20]     #窗口大小
 white = [255, 255, 255]
 black = [0, 0, 0]
 MOVE = 24
-pygame.time.set_timer(MOVE, 100)        #移动定时器
+pygame.time.set_timer(MOVE, 200)        #移动定时器
 forward = 'RIGHT'
 screen = pygame.display.set_mode(screensize)    #初始窗口
 snakes = [{'x': step * 5, 'y': step * 5},       #初始蛇
